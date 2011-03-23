@@ -1,0 +1,157 @@
+# Testing 2-bit ntuples in 32-bit random words
+Kuiper KS: p = 0.848105
+Assessment: PASSED at > 5% for RGB Bit Distribution Test
+# Testing 3-bit ntuples in 32-bit random words
+Kuiper KS: p = 0.616037
+Assessment: PASSED at > 5% for RGB Bit Distribution Test
+# Testing 4-bit ntuples in 32-bit random words
+Kuiper KS: p = 0.897145
+Assessment: PASSED at > 5% for RGB Bit Distribution Test
+# Testing 5-bit ntuples in 32-bit random words
+Kuiper KS: p = 0.500454
+Assessment: PASSED at > 5% for RGB Bit Distribution Test
+# Testing 6-bit ntuples in 32-bit random words
+Kuiper KS: p = 0.777614
+Assessment: PASSED at > 5% for RGB Bit Distribution Test
+# Testing for minimum distance in 2-dimensions
+# Average minimum distance over 1000 runs: 6.9811503660e-05
+Kuiper KS: p = 0.780688
+Assessment: PASSED at > 5% for RGB Generalized Minimum Distance Test
+# Testing for minimum distance in 3-dimensions
+# Average minimum distance over 1000 runs: 1.5049000080e-03
+Kuiper KS: p = 0.949897
+Assessment: PASSED at > 5% for RGB Generalized Minimum Distance Test
+# Testing for minimum distance in 4-dimensions
+# Average minimum distance over 1000 runs: 7.2786641999e-03
+Kuiper KS: p = 0.654194
+Assessment: PASSED at > 5% for RGB Generalized Minimum Distance Test
+# Testing for minimum distance in 5-dimensions
+# Average minimum distance over 1000 runs: 1.9187058296e-02
+Kuiper KS: p = 0.102259
+Assessment: PASSED at > 5% for RGB Generalized Minimum Distance Test
+# Testing 2-permutations 
+Kuiper KS: p = 0.571553
+Assessment: PASSED at > 5% for RGB Permutations Test
+# Testing 3-permutations 
+Kuiper KS: p = 0.991157
+Assessment: PASSED at > 5% for RGB Permutations Test
+# Testing 4-permutations 
+Kuiper KS: p = 0.398323
+Assessment: PASSED at > 5% for RGB Permutations Test
+# Testing 5-permutations 
+Kuiper KS: p = 0.348720
+Assessment: PASSED at > 5% for RGB Permutations Test
+# Testing 6-permutations 
+Kuiper KS: p = 0.587146
+Assessment: PASSED at > 5% for RGB Permutations Test
+Kuiper KS: p = 0.157151
+Assessment: PASSED at > 5% for Diehard(er) Birthdays Test
+Kuiper KS: p = 0.007592
+Assessment: POOR at < 1% for Diehard OPERM5 Test
+Recommendation:  Repeat test to verify failure.
+Kuiper KS: p = 0.902269
+Assessment: PASSED at > 5% for Diehard 32x32 Binary Rank Test
+Kuiper KS: p = 0.958474
+Assessment: PASSED at > 5% for Diehard 6x8 Binary Rank Test
+Kuiper KS: p = 0.826769
+Assessment: PASSED at > 5% for Diehard Bitstream Test
+Kuiper KS: p = 0.535903
+Assessment: PASSED at > 5% for Diehard OPSO
+Kuiper KS: p = 0.584449
+Assessment: PASSED at > 5% for Diehard OQSO Test
+Kuiper KS: p = 0.053222
+Assessment: PASSED at > 5% for Diehard DNA Test
+Kuiper KS: p = 0.069107
+Assessment: PASSED at > 5% for Diehard Count the 1s (stream) Test
+Kuiper KS: p = 0.721920
+Assessment: PASSED at > 5% for Diehard Count the 1s Test (byte)
+Kuiper KS: p = 0.962296
+Assessment: PASSED at > 5% for Diehard Parking Lot Test
+Kuiper KS: p = 0.791173
+Assessment: PASSED at > 5% for Diehard Minimum Distance (2d Circle) Test
+Kuiper KS: p = 0.850542
+Assessment: PASSED at > 5% for Diehard 3d Sphere (Minimum Distance) Test
+Kuiper KS: p = 0.031700
+Assessment: POSSIBLY WEAK at < 5% for Example Dieharder Test
+Recommendation:  Repeat test to verify failure.
+Kuiper KS: p = 0.698650
+Assessment: PASSED at > 5% for Diehard Sums Test
+Kuiper KS: p = 0.277317
+Assessment: PASSED at > 5% for Diehard Runs Test
+Kuiper KS: p = 0.712648
+Assessment: PASSED at > 5% for Diehard Runs Test
+Kuiper KS: p = 0.702807
+Assessment: PASSED at > 5% for Diehard(er) Craps Test
+Kuiper KS: p = 0.956422
+Assessment: PASSED at > 5% for Diehard(er) Craps Test
+Kuiper KS: p = 0.410800
+Assessment: PASSED at > 5% for Marsaglia and Tsang GCD Test
+Kuiper KS: p = 0.282723
+Assessment: PASSED at > 5% for Marsaglia and Tsang GCD Test
+Kuiper KS: p = 0.374925
+Assessment: PASSED at > 5% for STS Monobit Test
+Kuiper KS: p = 0.980731
+Assessment: PASSED at > 5% for STS Runs Test
+Kuiper KS: p = 0.374925
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.564637
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.563451
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.261745
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.984521
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.309507
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.992917
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.694250
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.973408
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.939266
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.950525
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.170145
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.994924
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.897212
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.071133
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.924883
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.996757
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.633622
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.960142
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.534574
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.908737
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.933359
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.344223
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.750043
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.655491
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.999360
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.999457
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.867067
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.650337
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+Kuiper KS: p = 0.790461
+Assessment: PASSED at > 5% for STS Serial Test (Generalized)
+# Lag used in Example Dieharder Test test: 0
+Kuiper KS: p = 0.783403
+Assessment: PASSED at > 5% for Example Dieharder Test
